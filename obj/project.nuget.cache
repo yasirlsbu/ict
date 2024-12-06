@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q9tQ7NgRnmY=",
+  "dgSpecHash": "gwAMJBingIY=",
   "success": true,
-  "projectFilePath": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\lsbu_solutionise.csproj",
+  "projectFilePath": "E:\\ict_project\\lsbu_solutionise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\44795\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\44795\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

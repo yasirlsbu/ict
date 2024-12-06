@@ -8403,11 +8403,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\lsbu_solutionise.csproj",
+      "projectUniqueName": "E:\\ict_project\\lsbu_solutionise.csproj",
       "projectName": "lsbu_solutionise",
-      "projectPath": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\lsbu_solutionise.csproj",
+      "projectPath": "E:\\ict_project\\lsbu_solutionise.csproj",
       "packagesPath": "C:\\Users\\44795\\.nuget\\packages\\",
-      "outputPath": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\obj\\",
+      "outputPath": "E:\\ict_project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\44795\\AppData\\Roaming\\NuGet\\NuGet.Config",

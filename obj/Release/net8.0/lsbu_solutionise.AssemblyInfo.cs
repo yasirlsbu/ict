@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lsbu_solutionise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcb52137d79c635d50405fad29e7bd99532c6b0c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75c447dceea122ca3ff913ce6f060235c88779c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("lsbu_solutionise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lsbu_solutionise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

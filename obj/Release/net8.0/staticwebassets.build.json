@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "g9+P1XqkqLLfCm2uFxKGe95nq70F1xV9vBzIKs4vtR8=",
+  "Hash": "CYAV+X1bSnpATpw0i4/VWGPzs4mkTq6RADz2Jee4tYU=",
   "Source": "lsbu_solutionise",
   "BasePath": "_content/lsbu_solutionise",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "lsbu_solutionise\\wwwroot",
       "Source": "lsbu_solutionise",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "Pattern": "**"
     }
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "C:\\Users\\44795\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.10\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\obj\\Release\\net8.0\\scopedcss\\bundle\\lsbu_solutionise.styles.css",
+      "Identity": "E:\\ict_project\\obj\\Release\\net8.0\\scopedcss\\bundle\\lsbu_solutionise.styles.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\obj\\Release\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\ict_project\\obj\\Release\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lsbu_solutionise.styles.css",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\obj\\Release\\net8.0\\scopedcss\\bundle\\lsbu_solutionise.styles.css"
+      "OriginalItemSpec": "E:\\ict_project\\obj\\Release\\net8.0\\scopedcss\\bundle\\lsbu_solutionise.styles.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\lsbu_solutionise.bundle.scp.css",
+      "Identity": "E:\\ict_project\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\lsbu_solutionise.bundle.scp.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\ict_project\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lsbu_solutionise.bundle.scp.css",
       "AssetKind": "All",
@@ -1192,13 +1192,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\lsbu_solutionise.bundle.scp.css"
+      "OriginalItemSpec": "E:\\ict_project\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\lsbu_solutionise.bundle.scp.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\css\\bootstrap.css",
+      "Identity": "E:\\ict_project\\wwwroot\\css\\bootstrap.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\css\\event_thing.css",
+      "Identity": "E:\\ict_project\\wwwroot\\css\\event_thing.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "css/event_thing.css",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\css\\event_thing.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "E:\\ict_project\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\css\\responsive.css",
+      "Identity": "E:\\ict_project\\wwwroot\\css\\responsive.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\css\\review.css",
+      "Identity": "E:\\ict_project\\wwwroot\\css\\review.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "css/review.css",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\css\\review.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\css\\signupstyle.css",
+      "Identity": "E:\\ict_project\\wwwroot\\css\\signupstyle.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "css/signupstyle.css",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\css\\signupstyle.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\css\\style.css",
+      "Identity": "E:\\ict_project\\wwwroot\\css\\style.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\css\\style.css.map",
+      "Identity": "E:\\ict_project\\wwwroot\\css\\style.css.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "css/style.css.map",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\css\\style.scss",
+      "Identity": "E:\\ict_project\\wwwroot\\css\\style.scss",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "css/style.scss",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.scss"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\favicon.ico",
+      "Identity": "E:\\ict_project\\wwwroot\\favicon.ico",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "E:\\ict_project\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Identity": "E:\\ict_project\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "E:\\ict_project\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\about_us.jpg",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\about_us.jpg",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/about_us.jpg",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about_us.jpg"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\about-img.jpg",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\about-img.jpg",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/about-img.jpg",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about-img.jpg"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\business_icon.jpeg",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\business_icon.jpeg",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/business_icon.jpeg",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\images\\business_icon.jpeg"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\business_services.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\business_services.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/business_services.png",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\images\\business_services.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\client-1.jpg",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\client-1.jpg",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/client-1.jpg",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\images\\client-1.jpg"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\client-2.jpg",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\client-2.jpg",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/client-2.jpg",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\images\\client-2.jpg"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\cloud-computing.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\cloud-computing.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/cloud-computing.png",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cloud-computing.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\comma.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\comma.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/comma.png",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comma.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\computing_icon.jpeg",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\computing_icon.jpeg",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/computing_icon.jpeg",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\images\\computing_icon.jpeg"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\computing_services.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\computing_services.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/computing_services.png",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\images\\computing_services.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\construction.svg",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\construction.svg",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/construction.svg",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\images\\construction.svg"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\idea.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\idea.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/idea.png",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\images\\idea.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\idkbro.jpg",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\idkbro.jpg",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/idkbro.jpg",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\images\\idkbro.jpg"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\legal_icon.jpeg",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\legal_icon.jpeg",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/legal_icon.jpeg",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\images\\legal_icon.jpeg"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\legal_services.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\legal_services.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/legal_services.png",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\images\\legal_services.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\legal-document.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\legal-document.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/legal-document.png",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\images\\legal-document.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\logo.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\logo.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\lsbu_logo.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\lsbu_logo.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/lsbu_logo.png",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lsbu_logo.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\maintenance.svg",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\maintenance.svg",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/maintenance.svg",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\images\\maintenance.svg"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\professional-img.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\professional-img.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/professional-img.png",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\images\\professional-img.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\quote.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\quote.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/quote.png",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\images\\quote.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\s1.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\s1.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/s1.png",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s1.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\s2.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\s2.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/s2.png",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s2.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\s3.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\s3.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/s3.png",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s3.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\salary.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\salary.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/salary.png",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\images\\salary.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\slider-img.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\slider-img.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/slider-img.png",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slider-img.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\tools.svg",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\tools.svg",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/tools.svg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tools.svg"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\v73_229.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\v73_229.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/v73_229.png",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\images\\v73_229.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\v73_93.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\v73_93.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/v73_93.png",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\images\\v73_93.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\v73_94.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\v73_94.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/v73_94.png",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\images\\v73_94.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\v91_10.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\v91_10.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/v91_10.png",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\images\\v91_10.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\v91_9.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\v91_9.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/v91_9.png",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\images\\v91_9.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\v92_53.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\v92_53.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/v92_53.png",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\images\\v92_53.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\v92_56.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\v92_56.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/v92_56.png",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\v92_56.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\v92_64.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\v92_64.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/v92_64.png",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\images\\v92_64.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\v92_67.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\v92_67.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/v92_67.png",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\images\\v92_67.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\v92_75.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\v92_75.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/v92_75.png",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\images\\v92_75.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\v92_78.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\v92_78.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/v92_78.png",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\images\\v92_78.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\v93_82.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\v93_82.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/v93_82.png",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\images\\v93_82.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\v93_83.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\v93_83.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/v93_83.png",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\images\\v93_83.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\images\\v93_84.png",
+      "Identity": "E:\\ict_project\\wwwroot\\images\\v93_84.png",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "images/v93_84.png",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\v93_84.png"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\js\\bootstrap.js",
+      "Identity": "E:\\ict_project\\wwwroot\\js\\bootstrap.js",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "js/bootstrap.js",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.js"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\js\\custom.js",
+      "Identity": "E:\\ict_project\\wwwroot\\js\\custom.js",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "js/custom.js",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom.js"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "Identity": "E:\\ict_project\\wwwroot\\js\\jquery-3.4.1.min.js",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "js/jquery-3.4.1.min.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.4.1.min.js"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\js\\signupjs.js",
+      "Identity": "E:\\ict_project\\wwwroot\\js\\signupjs.js",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "js/signupjs.js",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signupjs.js"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -3076,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3095,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3114,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3133,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3152,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3171,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3190,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -3209,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3228,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3266,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3285,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3304,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3323,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3342,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3361,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "E:\\ict_project\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "lsbu_solutionise",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Assignments\\lsbu_solutionise\\lsbu_solutionise\\wwwroot\\",
+      "ContentRoot": "E:\\ict_project\\wwwroot\\",
       "BasePath": "_content/lsbu_solutionise",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

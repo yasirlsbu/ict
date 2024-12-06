@@ -17,75 +17,75 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = lsbu_solutionise
 build_property.RootNamespace = lsbu_solutionise
-build_property.ProjectDir = E:\Assignments\lsbu_solutionise\lsbu_solutionise\
+build_property.ProjectDir = E:\ict_project\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Assignments\lsbu_solutionise\lsbu_solutionise
+build_property.MSBuildProjectDirectory = E:\ict_project
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Assignments/lsbu_solutionise/lsbu_solutionise/Areas/Identity/Pages/_ViewStart.cshtml]
+[E:/ict_project/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Assignments/lsbu_solutionise/lsbu_solutionise/Views/Booking/Create.cshtml]
+[E:/ict_project/Views/Booking/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Assignments/lsbu_solutionise/lsbu_solutionise/Views/Booking/Index.cshtml]
+[E:/ict_project/Views/Booking/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Assignments/lsbu_solutionise/lsbu_solutionise/Views/Home/About.cshtml]
+[E:/ict_project/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Assignments/lsbu_solutionise/lsbu_solutionise/Views/Home/contact.cshtml]
+[E:/ict_project/Views/Home/contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Assignments/lsbu_solutionise/lsbu_solutionise/Views/Home/faq.cshtml]
+[E:/ict_project/Views/Home/faq.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxmYXEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Assignments/lsbu_solutionise/lsbu_solutionise/Views/Home/faq_content.cshtml]
+[E:/ict_project/Views/Home/faq_content.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxmYXFfY29udGVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Assignments/lsbu_solutionise/lsbu_solutionise/Views/Home/Index.cshtml]
+[E:/ict_project/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Assignments/lsbu_solutionise/lsbu_solutionise/Views/Home/Policies.cshtml]
+[E:/ict_project/Views/Home/Policies.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb2xpY2llcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Assignments/lsbu_solutionise/lsbu_solutionise/Views/Home/Privacy.cshtml]
+[E:/ict_project/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Assignments/lsbu_solutionise/lsbu_solutionise/Views/Shared/Error.cshtml]
+[E:/ict_project/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Assignments/lsbu_solutionise/lsbu_solutionise/Views/Shared/_LoginPartial.cshtml]
+[E:/ict_project/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Assignments/lsbu_solutionise/lsbu_solutionise/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/ict_project/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Assignments/lsbu_solutionise/lsbu_solutionise/Views/_ViewImports.cshtml]
+[E:/ict_project/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Assignments/lsbu_solutionise/lsbu_solutionise/Views/_ViewStart.cshtml]
+[E:/ict_project/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Assignments/lsbu_solutionise/lsbu_solutionise/Views/Shared/_Layout.cshtml]
+[E:/ict_project/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-f5w1y6cgk6
